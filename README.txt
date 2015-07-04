@@ -1,3 +1,5 @@
+You can use alextheleon.txt to avoid waiting a long time making your own .txt of a tumblr page. It is located in bin/files.
+
 To create a new .txt file of a tumblr page:
 File > New Rip
 
